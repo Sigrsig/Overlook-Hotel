@@ -1,4 +1,4 @@
 # Overlook Hotel
 
-Currend work in progress
+Current work in progress
 A mock website for the Overlook Hotel
