@@ -5,5 +5,6 @@ A mock website for the Overlook Hotel. Created with React
 
 ##Project Status
 
-Currently working on Rooms page
+Currently working on: Rooms page
+
 Front page Slideshow and Nav: Working
